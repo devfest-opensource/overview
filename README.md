@@ -1,2 +1,2 @@
 # overview
-In this repo add little details of devfest
+In this repo add little details about devfest
